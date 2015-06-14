@@ -1,0 +1,239 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Sinatra" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="summer school, linguistics, logic, information, north american" />
+  <meta name="author" content="Christopher Brown, chrisbrown@utexas.edu">
+  <meta name="description" content="NASSLLI 2012 is a week-long summer school to be held at the University of Texas at Austin on June 18-22, 2012." />
+  <title>NASSLLI 2012 - Summer School of Logic, Language, and Information</title>
+  <link href="/favicon.ico" rel="Shortcut Icon" type="image/vnd.microsoft.icon" >
+  <link href="/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="stylesheet" href="/master.css" type="text/css" />
+  <script type="text/javascript" src="/js/jquery.js"></script> 
+</head>
+<body>
+  <div id="header">
+    <hr />
+    <a href="http://nasslli2012.com/" class="aimg noborder"><img src="/images/cube.png" /></a>
+    <div class="links">
+        <a href="/nasslli-2014" class="noborder">NASSLLI 2014</a>
+        <a href="/program" class="noborder">Course Listing</a>
+        <a href="/schedule" class="noborder">Schedule</a>
+        <a href="/faq" class="noborder">F.A.Q.</a>
+        <a href="/location" class="noborder">Location</a>
+        <a href="/food" class="noborder">Food</a>
+<!-- 
+    <a href="http://uts.cc.utexas.edu/~tls/2012tls/" class="noborder">TLS&nbsp;<img src="/images/ext-orange.png" /></a>
+ -->
+    </div>
+  </div>
+  <div id="container">
+    
+    <div id="left-container"><div id="left-content">
+      <h1>
+        <a href="http://nasslli2012.com/"><span class="name">NASSLLI</span></a>
+        <a href="http://nasslli2012.com/"><span class="year">2012</span></a>
+        <a href="http://nasslli2012.com/"><span class="date">June 18 - 22</span></a></h1>
+
+      <div class="noborder">
+        <h2>Special Events</h2>
+        <ul>
+          <li><a href="/rain">Reasoning and Interaction at NASSLLI</a></li>
+          <li><a href="/turing">Turing Centenary Symposium</a></li>
+          <li><a href="http://uts.cc.utexas.edu/~tls/2012tls/">Texas Linguistics Society&nbsp;<img src="/images/ext-orange.png" /></a></li>
+          <li><a href="/evenings">Evening Events</a></li>
+        </ul>
+      </div>
+
+      <div class="noborder">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+            <li><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></li>
+            <li><a href="/photos">Photos!</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/bootcamp">Bootcamp Courses</a></li>
+            <li><a href="/accommodations">Accommodations</a></li>
+            <li><a href="/transportation">Transportation</a></li>
+            <li><a href="/food">Food</a></li>
+            <li><a href="/location">Location</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+            <li><a href="/about">About NASSLLI 2012</a></li>
+            <li><a href="/poster-pdf">Poster</a></li>
+        </ul>
+      </div>
+
+      <div class="special">
+        <h3>Sign up here for our Mailing List:</h3>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="http://nasslli2012.us2.list-manage.com/subscribe/post?u=cf2f42d10a3c03e67bfeee11a&amp;id=2ff7e7259e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div>
+              <label for="mce-EMAIL" style="font-weight: bold">Email Address</label>
+            </div>
+            <div style="margin: 5px 0">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+
+      <div>
+        <h3>Questions? Email us:</h3>
+        <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a>
+      </div>
+
+      <div>
+        <a href="https://twitter.com/nasslli" class="twitter-follow-button" data-show-count="true" data-lang="en">
+          Follow @nasslli</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+      </div>
+
+      <div>
+        <h3>Search the site:</h3>
+        <div><input id="search_text" type="text" /></div>
+        <div style="margin: 4px 0;">
+          <input id="search_button" type="button" value="Search" />
+          <span class="search_credit">&nbsp; Powered by Google</span>
+        </div>
+      </div>
+      
+      <div class="noborder center">
+        <a href="http://www.utexas.edu/cola/depts/linguistics/" class="noborder"><img src="/images/longhorn.gif" /></a>
+      </div>
+    </div></div><!-- end col-1 -->
+  
+    <div id="col-2">
+      <h2><a href="/courses/vagueness-and-context">Vagueness and Context</a></h2>
+
+<h3>Room: UTC 4.104</h3>
+
+
+<h4>Description</h4>
+<p>The aim of the class is to consider the role of the contextual dimension of vagueness and its implications for sorites paradoxes and the logic of vague predicates.</p>
+
+
+  <h4>Prerequisites</h4>
+  <p>No prior knowledge of theories of vagueness is required, but some familiarity with formal semantics and predicate logic will be useful.</p>
+
+  <h4>Preparation</h4>
+  <p><ul> <li>Fine, K. 1975. Vagueness, truth and logic. Synthese 30: 265–300.</li> <li>Graff-Fara, Delia. 2000. Shifting sands: An interest-relative theory of vagueness. Philosophical Topics 28: 45-81.</li> <li>Kamp, Hans 1981. The paradox of the heap. In U. Mönnich (ed.) Aspects of Philosophical Logic. Dordrecht, Reidel: 225–277.</li> <li>Raffman, Diana. 1994. Vagueness without paradox. Philosophical Review 103: 41–74.</li> <li>Raffman, Diana. 1996. Vagueness and context-sensitivity. Philosophical Studies 81:175-92</li> <li>Sainsbury, R. M. 1990. Concepts without boundaries (Inaugural lecture: 6 November 1990). London: Department of Philosophy, King’s College London. Reprinted in Rosanna Keefe and Peter Smith (eds.) 1996. Vagueness: A reader. Cambridge MA: MIT Press. 251–264.</li> <li>Smith, Nicholas J. J. 2006. Semantic regularity and the liar paradox. The Monist 89: 178-202.</li> <li>Stanley, Jason. 2003. Context, interest relativity and the sorites. Analysis 63: 269–81.</li> <li>Additional reading will be proposed in due course.</li> </ul>
+</p>
+
+  <h4>Syllabus</h4>
+  <div><ul> <li>Class 1: Definitions. Borderline cases. Sorites. Are vague predicates ineliminable? Can vagueness be precisely described? (Sainsbury 1990)</li> <li>Class 2: The model theoretic paradigm: supervaluations (Fine 1975)</li> <li>Class 3: Overview of ways in which context might be relevant: indexicality, effect of previous judgments (Kamp 1981, NJJ Smith 2006, Stanley 2003). Granularity and context</li> <li>Class 4: Context determined by perceptual situation (Raffmann 1994, 1996, Graff-Fara 2000)</li> <li>Class 5: What is the best account of the relation between context and vagueness?</li> </ul>
+</div>
+
+
+  <h4>Files</h4>
+  <div><ul>
+  <li><a href="/files/courses/kamp-slides-1.pdf">Day 1-2: Revised slides (Kamp)</a>
+</ul>
+</div>
+
+
+  <h2>Lecturers</h2>
+    <table>
+      <tr>
+        <td><h3>Hans Kamp</h3>
+            <div class="portrait" style="margin: 0 10px 10px 0"><img src="/images/250/hans-kamp.jpg" /></div>
+        </td>
+        <td>
+            <div style="margin: 4px 0"><b>Email:</b> hanskamp (AT) austin (DOT) utexas (DOT) edu</div>
+            <div style="margin: 4px 0"><b>Homepage:</b> <a href="http://www.ims.uni-stuttgart.de/~hans/index.html.en">http://www.ims.uni-stuttgart.de/~hans/index.html.en</a></div>
+            <h4>Bio:</h4>
+            <p>Hans Kamp's work focuses on the question how human beings represent meaning and how those representations enable them to do the various things that they do with information. The founder of Discourse Representation Theory, and a leading figure in logic, linguistics, and the philosophy of language, Professor Kamp has written articles on tense logic, adjectives, vagueness, free choice permission, attitudes, and semantic representation that are considered classics in their areas. He is the author of From Discourse to Logic (Kluwer, with Uwe Reyle) and Thinking and Talking about Things (MIT Press, Jean Nicod Lectures).
+<p>
+        </td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td><h3>Mark Sainsbury</h3>
+            <div class="portrait" style="margin: 0 10px 10px 0"><img src="/images/250/mark-sainsbury.jpg" /></div>
+        </td>
+        <td>
+            <div style="margin: 4px 0"><b>Email:</b> marksainsbury (AT) austin (DOT) utexas (DOT) edu</div>
+            <div style="margin: 4px 0"><b>Homepage:</b> <a href="https://webspace.utexas.edu/rms9/www/">https://webspace.utexas.edu/rms9/www/</a></div>
+            <h4>Bio:</h4>
+            <p>Mark Sainsbury taught for several years at King’s College London before coming to Austin in 2002. His most recent book is jointly authored with Michael Tye (Philosophy, UT) and is due out in February 2012: Seven Puzzles of Thought and How to Solve Them: An Originalist Theory of Concepts (OUP).
+<p>
+        </td>
+      </tr>
+    </table>
+
+    </div>
+
+  </div>
+  <div id="footer">
+    &copy; <a href="http://en.wikipedia.org/wiki/2011">2011</a>-<a href="http://en.wikipedia.org/wiki/2012">2012</a>
+      <a href="mailto:dib@mail.utexas.edu">David Beaver</a>,
+      <a href="https://webspace.utexas.edu/dib97/">University of Texas at Austin</a>
+  </div>
+  <script type="text/javascript">
+    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24751883-1']); _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>  
+  <script type="text/javascript">
+    function google() {
+      window.location = 'http://www.google.com/#&q=site:nasslli2012.com+' + $('#search_text').val();
+    }
+    function shuffleArray(arr) {
+      // this is destructive! but it only returns a SHALLOW copy
+      // http://sedition.com/perl/javascript-fy.html
+      var i = arr.length;
+      if (i == 0) {
+        return [];
+      }
+      while (--i) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tempi = arr[i];
+        var tempj = arr[j]; // necessary to split?
+        arr[i] = tempj;
+        arr[j] = tempi;
+      }
+      return arr;
+    };
+
+    $(function() {
+      $('#search_button').click(google);
+      $('#search_text').keyup(function(ev) {
+        if (ev.keyCode == '13') {
+          ev.preventDefault(); 
+          google();
+        }
+      });
+      
+      var image_indices = [];
+      for (var i = 1; i < 12; i++) {
+        image_indices.push(i);
+      }
+      shuffleArray(image_indices);
+      $('.photo-placeholder').each(function(i, elem) {
+        $elem = $(elem);
+        var image_index = image_indices[i].toString();
+        if (image_index.length == 1)
+          image_index = '0' + image_index;
+        var size = $elem.hasClass('small-photo') ? 250 : 640;
+        $elem.html('<div class="photo"><img src="/images/' + size + '/ut-campus-' + image_index + '.jpg" /></div>');
+      });
+    });
+  </script>  
+</body>
+</html>

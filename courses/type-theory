@@ -1,0 +1,254 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Sinatra" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="summer school, linguistics, logic, information, north american" />
+  <meta name="author" content="Christopher Brown, chrisbrown@utexas.edu">
+  <meta name="description" content="NASSLLI 2012 is a week-long summer school to be held at the University of Texas at Austin on June 18-22, 2012." />
+  <title>NASSLLI 2012 - Summer School of Logic, Language, and Information</title>
+  <link href="/favicon.ico" rel="Shortcut Icon" type="image/vnd.microsoft.icon" >
+  <link href="/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="stylesheet" href="/master.css" type="text/css" />
+  <script type="text/javascript" src="/js/jquery.js"></script> 
+</head>
+<body>
+  <div id="header">
+    <hr />
+    <a href="http://nasslli2012.com/" class="aimg noborder"><img src="/images/cube.png" /></a>
+    <div class="links">
+        <a href="/nasslli-2014" class="noborder">NASSLLI 2014</a>
+        <a href="/program" class="noborder">Course Listing</a>
+        <a href="/schedule" class="noborder">Schedule</a>
+        <a href="/faq" class="noborder">F.A.Q.</a>
+        <a href="/location" class="noborder">Location</a>
+        <a href="/food" class="noborder">Food</a>
+<!-- 
+    <a href="http://uts.cc.utexas.edu/~tls/2012tls/" class="noborder">TLS&nbsp;<img src="/images/ext-orange.png" /></a>
+ -->
+    </div>
+  </div>
+  <div id="container">
+    
+    <div id="left-container"><div id="left-content">
+      <h1>
+        <a href="http://nasslli2012.com/"><span class="name">NASSLLI</span></a>
+        <a href="http://nasslli2012.com/"><span class="year">2012</span></a>
+        <a href="http://nasslli2012.com/"><span class="date">June 18 - 22</span></a></h1>
+
+      <div class="noborder">
+        <h2>Special Events</h2>
+        <ul>
+          <li><a href="/rain">Reasoning and Interaction at NASSLLI</a></li>
+          <li><a href="/turing">Turing Centenary Symposium</a></li>
+          <li><a href="http://uts.cc.utexas.edu/~tls/2012tls/">Texas Linguistics Society&nbsp;<img src="/images/ext-orange.png" /></a></li>
+          <li><a href="/evenings">Evening Events</a></li>
+        </ul>
+      </div>
+
+      <div class="noborder">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+            <li><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></li>
+            <li><a href="/photos">Photos!</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/bootcamp">Bootcamp Courses</a></li>
+            <li><a href="/accommodations">Accommodations</a></li>
+            <li><a href="/transportation">Transportation</a></li>
+            <li><a href="/food">Food</a></li>
+            <li><a href="/location">Location</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+            <li><a href="/about">About NASSLLI 2012</a></li>
+            <li><a href="/poster-pdf">Poster</a></li>
+        </ul>
+      </div>
+
+      <div class="special">
+        <h3>Sign up here for our Mailing List:</h3>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="http://nasslli2012.us2.list-manage.com/subscribe/post?u=cf2f42d10a3c03e67bfeee11a&amp;id=2ff7e7259e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div>
+              <label for="mce-EMAIL" style="font-weight: bold">Email Address</label>
+            </div>
+            <div style="margin: 5px 0">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+
+      <div>
+        <h3>Questions? Email us:</h3>
+        <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a>
+      </div>
+
+      <div>
+        <a href="https://twitter.com/nasslli" class="twitter-follow-button" data-show-count="true" data-lang="en">
+          Follow @nasslli</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+      </div>
+
+      <div>
+        <h3>Search the site:</h3>
+        <div><input id="search_text" type="text" /></div>
+        <div style="margin: 4px 0;">
+          <input id="search_button" type="button" value="Search" />
+          <span class="search_credit">&nbsp; Powered by Google</span>
+        </div>
+      </div>
+      
+      <div class="noborder center">
+        <a href="http://www.utexas.edu/cola/depts/linguistics/" class="noborder"><img src="/images/longhorn.gif" /></a>
+      </div>
+    </div></div><!-- end col-1 -->
+  
+    <div id="col-2">
+      <h2><a href="/courses/type-theory">Type Theory with Records for Natural Language Semantics</a></h2>
+
+<h3>Room: UTC 4.104</h3>
+
+
+<h4>Description</h4>
+<p>We develop an integrated framework which addresses research issues in the semantics of dialogue, dialogue systems, logics of agents and linguistic work on spoken language.  We combine this with grammar, semantics (both lexical and phrasal) and principles of interaction. TTR (a version of type theory with records) is a framework which has pioneered an integrated formal treatment of interaction in language. The course will provide a practical introduction to semantic analysis using TTR, grounding its tools in empirical phenomena.
+</p>
+
+  <p><a href="https://sites.google.com/site/ttrnls">https://sites.google.com/site/ttrnls</a></p>
+
+  <h4>Prerequisites</h4>
+  <p>A previous introduction to linguistics including formal syntax and formal semantics would be useful.</p>
+
+  <h4>Preparation</h4>
+  <p><ul>
+  <li>Ginzburg, Jonathan. 2011. The interactive stance: Meaning for conversation. Oxford University Press. Chapters 1-2. (<a href="http://books.google.fr/books?id=W4WOWZxKWZAC&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false">Google Books</a>)</li>
+  <li>Ginzburg, Jonathan and Raquel Fernandez. 2010. Computational models of dialogue. In Alex Clark, Chris Fox and Shalom Lappin (eds.) Handbook of Computational Linguistics and Natural Language Processing. Oxford: Blackwell. (<a href="https://1224881788223438059-a-1802744773732722657-s-sites.googlegroups.com/site/jonathanginzburgswebsite/publications/gf09.pdf">pdf</a>)</li>
+  <li>Cooper, Robin. 2010. Frames in formal semantics. In Hrafn Loftsson, Eiríkur Rögnvaldsson and Sigrún Helgadóttir (eds.) Advances in Natural Language Processing: Proceedings of the 7th International Conference on NLP, IceTAL 2010. Lecture Notes in Computer Science, 6233. Berlin: Springer Verlag. (<a href="https://sites.google.com/site/saicdproject/publications/publications/ffs-final.pdf?attredirects=0">pdf</a>)</li>
+  <li>Cooper, Robin. 2012. Type theory and semantics in flux. In Ruth Kempson, Nicholas Asher and Tim Fernando (eds.) Handbook of the Philosophy of Science. Philosophy of Linguistics, 14. General editors: Dov M. Gabbay, Paul Thagard and John Woods.  Amsterdam: Elsevier. (<a href="https://sites.google.com/site/saicdproject/publications/publications/ddl-final.pdf?attredirects=0">pdf</a>)</li>
+  <li>Also a course in Iyengar yoga or cycling at least once a week in downtown traffic, together with a careful study of the audiobook 44 Scotland Street (to deal better with the lecturers' accents.) </li>
+</ul>
+</p>
+
+  <h4>Syllabus</h4>
+  <div><ul>
+  <li>Lecture 1. The interactive stance: basic desiderata for a semantic theory; A theory of events and situations: frames and lexical semantics<p>
+  The interactive stance to semantics moves to an analysis of semantics which can characterize the potential for misunderstanding, rejection, and correction. A theory of events and situations is developed which is related to Fillmore's theory of frames, the basis for a rich theory of lexical semantics.</li>
+  <li>Lecture 2. Grammar in TTR; Incremental context and content; Tense and aspect<p>
+  Grammars are introduced as assigning types to speech events. We show how the combination of frames and typing of speech events can be applied to a theory of tense and aspect related to Reichenbach's work on the relation between speech, event and reference times and more recent work by Tim Fernando on the analysis of events as strings of component events.</li>
+  <li>Lecture 3. A theory of abstract entities and illocutionary interaction: analysis in terms of dialogue game boards; Negation<p>
+  The semantic ontology is expanded to include abstract entities such as propositions, questions, and outcomes which underpin illocutionary interaction. This provides the background for an analysis of negation that combines aspects of classical, intuitionistic and situation semantics views.</li>
+  <li>Lecture 4. Unifying metacommunicative and illocutionary interaction; Generalized quantifiers and copredication<p>
+  We provide a unified theory of metacommunicative and illocutionary interaction on the basis of the notion of Austinian locutionary propositions. This provides a basis for describing various linguistic phenomena occuring during grounding and clarification interaction. Formal semantics has been traditionally concerned with questions concerning quantifiers such as 'every', 'most' and 'a few'.<p>
+  We will show how these are treated in TTR and how the treatment relates to cases of copredication (originally discussed by James Pustejovsky) where we seem to be able to refer to different aspects of the same object simultaneously, e.g., 'The lunch was delicious but took forever' where 'lunch' appears to be used to simultaneously refer to food and an event. A rich theory of context emerges from these analyses and this is important for showing how fragmentary utterances can be interpreted.</li>
+  <li>Lecture 5. Non-sentential utterances; Learning, coordination, multimodal interaction: describing interaction between parents and children during language acquisition<p>
+  We will sketch current work in progress which suggests that the approach can serve as a basis for a theory of learning and multimodal interaction, enabling the semantic description of various aspects of interaction between parents and children during language acquisition.</li>
+</ul>
+</div>
+
+
+
+
+  <h2>Lecturers</h2>
+    <table>
+      <tr>
+        <td><h3>Robin Cooper</h3>
+            <div class="portrait" style="margin: 0 10px 10px 0"><img src="/images/250/robin-cooper.jpg" /></div>
+        </td>
+        <td>
+            <div style="margin: 4px 0"><b>Email:</b> cooper (AT) ling (DOT) gu (DOT) se</div>
+            <div style="margin: 4px 0"><b>Homepage:</b> <a href="http://www.ling.gu.se/~cooper/">http://www.ling.gu.se/~cooper/</a></div>
+            <h4>Bio:</h4>
+            <p>Robin Cooper has an undergraduate degree from the University of Cambridge and a PhD in Linguistics from the University of Massachusetts at Amherst.  He has taught at the following universities: Universität Freiburg, University of Texas at Austin, University of Massachusetts at Amherst, University of Wisconsin at Madison, Stanford University, Lund University, Edinburgh University and University of Gothenburg where he is currently Professor of Computational Linguistics.  He has held a Mellon Postdoctoral Fellowship and a Guggenheim Fellowship and has been a fellow at the Centre for Advanced Study in the Behavioral Sciences at Stanford.  He is a Fellow of the British Academy and the Royal Society of Arts and Sciences in Gothenburg and a member of Academia Europaea.  He holds an honorary doctorate from Uppsala.  His main research interests are semantics (both theoretical and computational), dialogue semantics and computational dialogue systems.
+<p>
+        </td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td><h3>Jonathan Ginzburg</h3>
+            <div class="portrait" style="margin: 0 10px 10px 0"><img src="/images/250/jonathan-ginzburg.jpg" /></div>
+        </td>
+        <td>
+            <div style="margin: 4px 0"><b>Email:</b> yonatan (DOT) ginzburg (AT) univ-paris-diderot (DOT) fr</div>
+            <div style="margin: 4px 0"><b>Homepage:</b> <a href="https://sites.google.com/site/jonathanginzburgswebsite/">https://sites.google.com/site/jonathanginzburgswebsite/</a></div>
+            <h4>Bio:</h4>
+            <p>Jonathan Ginzburg has held appointments at the Hebrew University of Jerusalem and King's College, London. He is currently Professor of Linguistics at Université Paris-Diderot (Paris 7). He is the author of Interrogative Investigations: the form, meaning, and use of English Interrogatives (jointly with Ivan A. Sag, CSLI 2001) and of The Interactive Stance: meaning for conversation (Oxford University Press, 2012). He is one of the founders and currently editor-in-chief of Dialogue and Discourse, one of the Linguistic Society of America's ejournals.
+<p>
+        </td>
+      </tr>
+    </table>
+
+    </div>
+
+  </div>
+  <div id="footer">
+    &copy; <a href="http://en.wikipedia.org/wiki/2011">2011</a>-<a href="http://en.wikipedia.org/wiki/2012">2012</a>
+      <a href="mailto:dib@mail.utexas.edu">David Beaver</a>,
+      <a href="https://webspace.utexas.edu/dib97/">University of Texas at Austin</a>
+  </div>
+  <script type="text/javascript">
+    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24751883-1']); _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>  
+  <script type="text/javascript">
+    function google() {
+      window.location = 'http://www.google.com/#&q=site:nasslli2012.com+' + $('#search_text').val();
+    }
+    function shuffleArray(arr) {
+      // this is destructive! but it only returns a SHALLOW copy
+      // http://sedition.com/perl/javascript-fy.html
+      var i = arr.length;
+      if (i == 0) {
+        return [];
+      }
+      while (--i) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tempi = arr[i];
+        var tempj = arr[j]; // necessary to split?
+        arr[i] = tempj;
+        arr[j] = tempi;
+      }
+      return arr;
+    };
+
+    $(function() {
+      $('#search_button').click(google);
+      $('#search_text').keyup(function(ev) {
+        if (ev.keyCode == '13') {
+          ev.preventDefault(); 
+          google();
+        }
+      });
+      
+      var image_indices = [];
+      for (var i = 1; i < 12; i++) {
+        image_indices.push(i);
+      }
+      shuffleArray(image_indices);
+      $('.photo-placeholder').each(function(i, elem) {
+        $elem = $(elem);
+        var image_index = image_indices[i].toString();
+        if (image_index.length == 1)
+          image_index = '0' + image_index;
+        var size = $elem.hasClass('small-photo') ? 250 : 640;
+        $elem.html('<div class="photo"><img src="/images/' + size + '/ut-campus-' + image_index + '.jpg" /></div>');
+      });
+    });
+  </script>  
+</body>
+</html>

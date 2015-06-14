@@ -1,0 +1,287 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Sinatra" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="summer school, linguistics, logic, information, north american" />
+  <meta name="author" content="Christopher Brown, chrisbrown@utexas.edu">
+  <meta name="description" content="NASSLLI 2012 is a week-long summer school to be held at the University of Texas at Austin on June 18-22, 2012." />
+  <title>NASSLLI 2012 - Summer School of Logic, Language, and Information</title>
+  <link href="/favicon.ico" rel="Shortcut Icon" type="image/vnd.microsoft.icon" >
+  <link href="/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="stylesheet" href="/master.css" type="text/css" />
+  <script type="text/javascript" src="/js/jquery.js"></script> 
+</head>
+<body>
+  <div id="header">
+    <hr />
+    <a href="http://nasslli2012.com/" class="aimg noborder"><img src="/images/cube.png" /></a>
+    <div class="links">
+        <a href="/nasslli-2014" class="noborder">NASSLLI 2014</a>
+        <a href="/program" class="noborder">Course Listing</a>
+        <a href="/schedule" class="noborder">Schedule</a>
+        <a href="/faq" class="noborder">F.A.Q.</a>
+        <a href="/location" class="noborder">Location</a>
+        <a href="/food" class="noborder">Food</a>
+<!-- 
+    <a href="http://uts.cc.utexas.edu/~tls/2012tls/" class="noborder">TLS&nbsp;<img src="/images/ext-orange.png" /></a>
+ -->
+    </div>
+  </div>
+  <div id="container">
+    
+    <div id="left-container"><div id="left-content">
+      <h1>
+        <a href="http://nasslli2012.com/"><span class="name">NASSLLI</span></a>
+        <a href="http://nasslli2012.com/"><span class="year">2012</span></a>
+        <a href="http://nasslli2012.com/"><span class="date">June 18 - 22</span></a></h1>
+
+      <div class="noborder">
+        <h2>Special Events</h2>
+        <ul>
+          <li><a href="/rain">Reasoning and Interaction at NASSLLI</a></li>
+          <li><a href="/turing">Turing Centenary Symposium</a></li>
+          <li><a href="http://uts.cc.utexas.edu/~tls/2012tls/">Texas Linguistics Society&nbsp;<img src="/images/ext-orange.png" /></a></li>
+          <li><a href="/evenings">Evening Events</a></li>
+        </ul>
+      </div>
+
+      <div class="noborder">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+            <li><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></li>
+            <li><a href="/photos">Photos!</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/bootcamp">Bootcamp Courses</a></li>
+            <li><a href="/accommodations">Accommodations</a></li>
+            <li><a href="/transportation">Transportation</a></li>
+            <li><a href="/food">Food</a></li>
+            <li><a href="/location">Location</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+            <li><a href="/about">About NASSLLI 2012</a></li>
+            <li><a href="/poster-pdf">Poster</a></li>
+        </ul>
+      </div>
+
+      <div class="special">
+        <h3>Sign up here for our Mailing List:</h3>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="http://nasslli2012.us2.list-manage.com/subscribe/post?u=cf2f42d10a3c03e67bfeee11a&amp;id=2ff7e7259e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div>
+              <label for="mce-EMAIL" style="font-weight: bold">Email Address</label>
+            </div>
+            <div style="margin: 5px 0">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+
+      <div>
+        <h3>Questions? Email us:</h3>
+        <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a>
+      </div>
+
+      <div>
+        <a href="https://twitter.com/nasslli" class="twitter-follow-button" data-show-count="true" data-lang="en">
+          Follow @nasslli</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+      </div>
+
+      <div>
+        <h3>Search the site:</h3>
+        <div><input id="search_text" type="text" /></div>
+        <div style="margin: 4px 0;">
+          <input id="search_button" type="button" value="Search" />
+          <span class="search_credit">&nbsp; Powered by Google</span>
+        </div>
+      </div>
+      
+      <div class="noborder center">
+        <a href="http://www.utexas.edu/cola/depts/linguistics/" class="noborder"><img src="/images/longhorn.gif" /></a>
+      </div>
+    </div></div><!-- end col-1 -->
+  
+    <div id="col-2">
+      <h2><a href="/courses/meaning-as-use">Meaning as Use: Indexicality, Expressives, and Self-Reference</a></h2>
+
+<h3>Room: UTC 4.104</h3>
+
+
+<h4>Description</h4>
+<p><p>The slogan 'meaning is use', usually attributed to Wittgenstein,
+  captures the insight that for many expressions of natural language,
+  semantic theory should state rules of use rather than-- or in addition
+  to-- specifying the concept or logical translation associated with the
+  expression.   This workshop aims to explore current and evolving ideas
+  about this use-dependent aspect of language and its connections with
+  other domains.  For indexicals such as 'I', 'you', and 'now', "the
+  referent is dependent on the context of use and the word provides a
+  rule which determines the referent in terms of certain aspects of the
+  context" (Kaplan).  Self-reference is a special case of indexicality
+  that presents its own set of puzzles (Kamp, Anand), and also bears
+  connections to expressive content and evidentials. Expressives like
+  'damn' and 'bastard' convey important affective content in a special
+  way that differs from the presentation of descriptive content (Potts).
+   Evidential markers indicate the source or nature of the evidence for
+  the information in a sentence in a way that is closely tied to
+  self-ascription (McCready, Murray).  In this workshop we explore a
+  variety of topics and the connections between them, with presentations
+  and discussion by leading contributors to this field.</p>
+<hr /> <h2 id="mccready">Monday, June 18: Meaning as Use: Problems and Prospects</h2> <img class="float-left" style="margin: 0px 20px 10px 0px" src="/images/150/eric-mccready.jpg" /> <img class="float-left" style="margin: 0px 20px 10px 0px" src="/images/150/steve-wechsler.jpg" /> <h3>Eric McCready (Aoyama Gakuin University)<br>Stephen Wechsler (The University of Texas)</h3> <p>In this talk we will begin by introducing the problems addressed in
+  this workshop, as laid out in the general workshop description above.
+  Then we will focus on some specific issues of current interest:
+  self-ascription in conjunct/disjunct systems, where verbs in first
+  person declaratives or second person interrogatives bear a special
+  marking; underspecified emotive content and how it is interpreted; and
+  evidential marking.</p>
+<h4><a href="/files/courses/workshop-final.pdf">Slides</a></h4> <h4>Readings:</h4> <ul> <li>Kripke, Saul. 2011. “The First Person.” In Philosophical Troubles: Collected Papers, 292–321. New York: Oxford University Press. <a href="https://sites.google.com/site/2011personindexicals/documen/First%20Person.pdf">https://sites.google.com/site/2011personindexicals/documen/First%20Person.pdf</a>
+<li>McCready, Eric 2011. What is Evidence in Natural Language? Manuscript, Aoyama Gakuin University. <a href="http://semanticsarchive.net/Archive/TAyYTI1N/">http://semanticsarchive.net/Archive/TAyYTI1N/</a>
+<li>Potts, Christopher. 2007. “The Expressive Dimension.” Theoretical Linguistics 33 (2): 165–198. <a href="http://www.stanford.edu/~cgpotts/papers/potts-expressives06.pdf">http://www.stanford.edu/~cgpotts/papers/potts-expressives06.pdf</a>
+<li>Wechsler, Stephen. 2010. “What ‘You’ and ‘I’ Mean to Each Other: Person Indexicals, Self-ascription, and Theory of Mind.” Language 86 (2): 332–365. <a href="https://sites.google.com/site/wechslerpublications/publication-downloads/Wechsler-YouAndI-Language-Feb-2010-3.pdf">https://sites.google.com/site/wechslerpublications/publication-downloads/Wechsler-YouAndI-Language-Feb-2010-3.pdf</a>
+<li>Wechsler, Stephen 2012. Self-Ascription in Conjunct-Disjunct Systems. Manuscript, University of Texas, Austin. <a href="https://sites.google.com/site/wechslerpublications/publication-downloads/WEC3.pdf">https://sites.google.com/site/wechslerpublications/publication-downloads/WEC3.pdf</a>
+<li>Kaplan, David 2004. The Meaning of ‘Ouch’ and ‘Oops.’ Howison Lecture in Philosophy, UC Berkeley, August 2004.<br> (transcript: <a href="https://sites.google.com/site/2011personindexicals/documen/Kaplan%2C1997-TheMeaningofOuchandOops.pdf">https://sites.google.com/site/2011personindexicals/documen/Kaplan%2C1997-TheMeaningofOuchandOops.pdf</a>)<br> <p><center><iframe width="420" height="315" src="http://www.youtube.com/embed/iaGRLlgPl6w" frameborder="0" allowfullscreen></iframe></center> </ul> <hr style="clear: right" /> <h2 id="kamp">Tuesday, June 19: Mental Indexicals and Linguistic Indexicals</h2> <img class="float-left" style="margin: 0 20px 10px 0" src="/images/150/hans-kamp.jpg" /> <h3>Hans Kamp (The University of Texas &amp; Universität Stuttgart)</h3> <p>In this talk we will assume (i) that mental representation of content
+  generally involves an ‘indexical’ singular term ‘n’, which represents
+  the ‘psychological present’, and (ii) that when the thought is a
+  self-ascription (a ‘thought de se’), its representation also involves
+  an ‘indexical’ singular term ‘i’, representing the self.
+<p>The occurrence of ‘i’ in the representation of a thought that a
+  speaker wants to express in words licenses her use of the first person
+  pronoun ‘I’; but her use of ‘I’ will produce in her addressee the
+  representation of a de re ascription to her. (‘you’ produces
+  discrepancies of the opposite kind; its use is licensed when the
+  speaker puts a thought into words that is a de re ascription to the
+  addressee, but will provoke the addressee into constructing the
+  representation of a self-ascription.)
+<p>In a somewhat analogous way, the presence of ‘n’ in the mental
+  representation of a speaker guides her choice of tenses and temporal
+  adverbs, but the temporal information carried by these sentence
+  elements can be reconverted to the same representational form that
+  gave rise to them: speaker and addressee share their psychological
+  present (at least in face-to-face conversation) and can represent it
+  using the same forms.
+<p>The interactions between the mental indexicals ‘i’ and ‘n’ on the one
+  hand and the linguistic indexicals ‘I’, ‘you’ and the tenses and
+  temporal adverbials on the other merit careful scrutiny. This is true
+  in particular when the thoughts that are being communicated between
+  speaker and addressee involve nested attitude attributions – as when
+  the speaker thinks, and ventures to say to the addressee, that she
+  thinks that he does not like her.
+<p>The talk will present the forms of the representations, discuss the
+  ways in which these representations can be converted into words and in
+  which those words can in their turn be reconverted into mental
+  representations by the recipient, with special attention to the nested
+  embeddings mentioned above.
+<h4>Reading:</h4> <ul> <li>Hans Kamp 2011. '<a href="/files/kamp_2011.pdf">Representing De Se Thoughts and their Reports.</a>' Manuscript, University of Stuttgart and University of Texas at Austin. </ul> <hr /> <h2 id="anand">Wednesday, June 20: Remembering, Imagining, and De Se, Revisited</h2> <img class="float-left" style="margin: 0 20px 10px 0" src="/images/150/pranav-anand.jpg" /> <h3>Pranav Anand (University of California at Santa Cruz)</h3> <p>The structure of imagistic attitudes like memory and imagination has received a great deal of attention in philosophy.  For example, Berkeley (1710) and Nagel (1974) asked whether there are limits to our imaginative capacities and Williams (1973) asked if such imagistic experiences have an explicit 'perspective' or 'self' that orients the perception or pseudo-perception.</p> <p>A linguistic question that arises is whether such perspectival information affects the truth conditions of ascriptions of memory and imagination. Vendler (1982) and Higginbotham (2003) explicitly say yes, focusing on examples with and without PRO, such as Vendler's 'I imagined swimming in the ocean' and 'I imagined myself swimming in the ocean'.</p> <p>In this talk, I will argue that whatever perspectival distinctions we may wish to make in imagistic attitudes, they do not map cleanly onto obligatorily de se attitudes. Rather, I will argue that perspective arises either from the context-dependent nature of the expressions in question or constraints that imagistic experiences themselves bring to the table.</p> <h4><a href="/files/courses/anand-slides.pdf">Slides</a></h4> <h4>Readings</h4> <ul> <li><a href="https://sites.google.com/site/2011personindexicals/documen/Anand-2011.pdf">Anand, Pranav. 2011. Suppositional projects and subjectivity. ms. UCSC.</a></li> <li><a href="https://sites.google.com/site/2011personindexicals/documen/Higginbotham-2003.pdf">Higginbotham, James. 2003. Remembering, Imagining, and the First Person. In Epistemology of language. Clarendon Press.</a></li> <li>Berkeley, George (1710/1975), The Principles of Human Knowledge (London:Everyman).</li> <li>Nagel, Thomas. 1974. What is it like to be a bat? Philosophical Review 83:435–50.</li> <li>Vendler, Zeno. 1982. Speaking of imagination. In Language, mind, and brain, 35–43.</li> </ul> <hr style="clear: left" /> <h2 id="murray">Thursday, June 21: The Indexical Component of Evidentiality</h2> <img class="float-left" style="margin: 0 20px 10px 0" src="/images/150/sarah-murray.jpg" /> <h3>Sarah Murray, Cornell University</h3> <p>In this talk I discuss the indexical properties of evidential markers and how they compare to other indexicals. Based on this comparison, I argue that there are two kinds of indexical expressions found in natural language: pure indexicals and anaphoric indexicals. Pure indexicals, after Kaplan 1978, are exemplified by first person pronouns in English and Cheyenne (Algonquian: Montana). Anaphoric indexicals are exemplified by the reportative evidential in Cheyenne, roughly similar to the evidential adverb reportedly in English. Like the first person pronouns, both the Cheyenne reportative and English reportedly are anchored to the speaker in declarative sentences, discourse initially and discourse internally.  For all of them, a change in the speaker affects the content of the sentence. However, in questions, the Cheyenne reportative and English reportedly are anchored to the addressee, unlike the first person pronouns. Examples such as evidentials in questions show that despite the strong similarities between first person pronouns and evidentials, they cannot be represented in exactly the same way. At the same time, their strong overlap must be accounted for. <p>This talk will also present an analysis of these two different kinds of indexicals where pure indexicals are analyzed a la Kaplan 1978 as referring to the context of utterance, represented by the speech event. The first person pronoun, for example, refers to the agent of the speech event. Anaphoric indexicals are analyzed as referring to the currently topical event. By default, in unembedded, declarative cases, the currently topical event is the speech event, the agent of which is the speaker. However, the topical event can change, depending on particular constructions in particular languages, yielding a restricted set of other individuals that the anaphoric indexicals can refer to. A formalization of this analysis is given in an update semantics with sequence based anaphora. This analysis accounts for the fact that by default anaphoric indexicals and pure indexicals refer to the same individuals. However, in questions or embedded cases, when the topical event changes, they refer to different individuals. In addition, this analysis accounts for the fact that Cheyenne reportatives are limited to secondhand reports. <h4>Readings:</h4> <ul> <li>Murray, Sarah. 2010. <a href="http://conf.ling.cornell.edu/sem/Evidentials-and-Questions-in-Cheyenne.pdf">Evidentials and Questions in Cheyenne.</a> In Suzi Lima (ed.), Proceedings of SULA 5: Semantics of Under-Represented Languages in the Americas. Amherst, MA: GLSA Publications. </ul> <h4>Optional Readings:</h4> <ul> <li>Bittner, Maria. To appear. <a href="http://www.rci.rutgers.edu/~mbittner/bitt12_sula7.pdf">Perspectival discourse referents for indexicals.</a> Proceedings of SULA 7. <li>McCready, Eric. 2007. <a href="http://semanticsarchive.net/Archive/DY2ZWVhZ/contextshift.pdf">Context shifting in questions and elsewhere.</a> In Estela Puig Waldmüller (ed.), Proceedings of Sinn und Bedeutung11, Barcelona: Universitat Pompeu Fabra. </ul> <hr /> <h2 id="acton">Friday, June 22: The latent affective meaning of demonstratives</h3> <img class="float-left" style="margin: 0 20px 10px 0" src="/images/150/eric-acton.jpg" /> <img class="float-left" style="margin: 0 20px 10px 0" src="/images/150/christopher-potts.jpg" /> <h3>Eric Acton (Stanford)<br> Christopher Potts (Stanford) </h3> <p>Lakoff (1974) argues that affective demonstratives in English are
+    markers of solidarity and shared sentiment, and that they can in turn
+    be used to foster, reinforce, or tacitly insist upon a sense of common
+    ground between a speaker and her audience.  We will present
+    quantitative corpus evidence that these affective uses are prevalent
+    and robust, not only in English, but also in German and Japanese, and
+    that similar effects are found with personal pronouns.  The question
+    then arises of where these affective, social meanings come from.  Do
+    they represent a semantic ambiguity, or can they be derived
+    pragmatically?  We will argue for a pragmatic approach.  Specifically,
+    we will seek to show that affective uses of this sort are expected on
+    the theory of Elbourne (2008), in which both personal pronouns and
+    demonstratives require the speaker and hearer to coordinate on
+    contextually supplied properties and referential indices.  These
+    requirements draw on, and hence evoke the common ground that exists
+    between speaker and hearer.
+<h4><a href="/files/courses/acton-potts-nasslli12-dems.pdf">Slides</a></h4> <h4>Readings:</h4> <ul> <li>Elbourne, Paul. 2008. Demonstratives as individual concepts.
+  Linguistics and Philosophy 31(4): 409–466.
+<li>Davis, Christopher and Christopher Potts. 2010. Affective
+  demonstratives and the division of pragmatic labor. In Maria Aloni,
+  Harald Bastiaanse, Tikitu de Jager, and Katrin Schulz, eds., Logic,
+  Language, and Meaning: 17th Amsterdam Colloquium Revised Selected
+  Papers, 42-52. Berlin: Springer.
+<li>Liberman, Mark. 2008. <a href="http://languagelog.ldc.upenn.edu/nll/?p=674">Affective demonstratives.</a> <li>Liberman, Mark. 2010. <a href="http://languagelog.ldc.upenn.edu/nll/?p=2240">Sarah Palin's distal demonstratives.</a> </ul> <h4>Optional Readings:</h4> <ul> <li>Lakoff, Robin. 1974. Remarks on 'this' and 'that'. In Proceedings of
+  the Chicago Linguistics Society 10, 345–356. Chicago, IL: Chicago
+  Linguistic Society.
+<li>Potts, Christopher and Florian Schwarz. 2010. Affective 'this'. Linguistic Issues in Language Technology 3(5):1-30. </ul>
+</p>
+
+
+
+
+
+
+
+
+
+    </div>
+
+  </div>
+  <div id="footer">
+    &copy; <a href="http://en.wikipedia.org/wiki/2011">2011</a>-<a href="http://en.wikipedia.org/wiki/2012">2012</a>
+      <a href="mailto:dib@mail.utexas.edu">David Beaver</a>,
+      <a href="https://webspace.utexas.edu/dib97/">University of Texas at Austin</a>
+  </div>
+  <script type="text/javascript">
+    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24751883-1']); _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>  
+  <script type="text/javascript">
+    function google() {
+      window.location = 'http://www.google.com/#&q=site:nasslli2012.com+' + $('#search_text').val();
+    }
+    function shuffleArray(arr) {
+      // this is destructive! but it only returns a SHALLOW copy
+      // http://sedition.com/perl/javascript-fy.html
+      var i = arr.length;
+      if (i == 0) {
+        return [];
+      }
+      while (--i) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tempi = arr[i];
+        var tempj = arr[j]; // necessary to split?
+        arr[i] = tempj;
+        arr[j] = tempi;
+      }
+      return arr;
+    };
+
+    $(function() {
+      $('#search_button').click(google);
+      $('#search_text').keyup(function(ev) {
+        if (ev.keyCode == '13') {
+          ev.preventDefault(); 
+          google();
+        }
+      });
+      
+      var image_indices = [];
+      for (var i = 1; i < 12; i++) {
+        image_indices.push(i);
+      }
+      shuffleArray(image_indices);
+      $('.photo-placeholder').each(function(i, elem) {
+        $elem = $(elem);
+        var image_index = image_indices[i].toString();
+        if (image_index.length == 1)
+          image_index = '0' + image_index;
+        var size = $elem.hasClass('small-photo') ? 250 : 640;
+        $elem.html('<div class="photo"><img src="/images/' + size + '/ut-campus-' + image_index + '.jpg" /></div>');
+      });
+    });
+  </script>  
+</body>
+</html>

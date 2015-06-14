@@ -1,0 +1,124 @@
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
+audio,canvas,video{display:inline;zoom:1}
+html{font-size:100%;overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body,button,input,select,textarea{font-family:sans-serif}
+a{color:#00e}
+a:visited{color:#551a8b}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+abbr[title]{border-bottom:1px dotted}
+b,strong{font-weight:700}
+blockquote{margin:1em 40px}
+dfn{font-style:italic}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}
+pre{white-space:pre-wrap;word-wrap:break-word}
+q{quotes:none}
+q:after,q:before{content:none}
+small{font-size:75%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+ol,ul{margin:1em 0;padding:0 0 0 40px}
+dd{margin:0 0 0 40px}
+nav ol,nav ul{list-style:none;list-style-image:none}
+img{border:0;-ms-interpolation-mode:bicubic}
+svg:not(:root){overflow:hidden}
+fieldset{margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;margin-left:-7px}
+button,input,select,textarea{font-size:100%;vertical-align:middle;margin:0}
+button,input{line-height:normal;overflow:visible}
+table button,table input{overflow:auto}
+button,html input[type=button],input[type=reset],input[type=submit]{cursor:pointer;-webkit-appearance:button}
+input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}
+input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+[hidden],audio:not([controls]){display:none}
+body,figure,form{margin:0}
+.clear{clear:both}
+.hidden{display:none}
+img{border:0;outline:0}
+div#container{margin:0 auto}
+.float-left{float:left}
+.float-right{float:right}
+a:active{outline:0}
+a:focus{-moz-outline-style:none}
+label{display:block}
+.center{text-align:center}
+.right{text-align:right}
+.left{text-align:left}
+.top{vertical-align:top}
+.middle{vertical-align:middle}
+.pad-right{padding-right:10px}
+ol,ul{margin:2px 0;padding-left:30px}
+.bold{font-weight:700}
+.small{font-size:80%}
+.p{margin:10px}
+.nopad{padding:0!important}
+.nomargin{margin:0}
+.nowrap{white-space:nowrap}
+.noborder{border:0!important}
+@font-face{font-family:Titling;src:url(/fonts/Titling.otf),url(/fonts/Titling.woff) format('woff'),url(/fonts/Titling.ttf) format('truetype')}
+.darkorange{color:#cc6b32}
+.goldenrod{color:#ffab48}
+.sand{color:#ffe7ad}
+.surf{color:#a7c9ae}
+.mauve{color:#888a63}
+body{font:14px Georgia,Garamond,serif;background:#fffefa url(/images/noise.png) repeat scroll 0 0}
+#header{position:relative;margin-top:20px;width:100%;height:108px}
+#header .aimg{float:left;display:block;margin:0 20px;width:300px;text-align:center}
+#header hr{position:absolute;left:5px;right:5px;top:48px;border:1px solid #ffe7ad;z-index:-1}
+#header .links{padding-top:48px}
+#header .links a{padding:3px 6px 1px;margin:0 2px;background-color:#fffefa;display:inline;font:14px Titling,Helvetica,Verdana,sans-serif;-moz-border-radius:9px;border-radius:9px}
+#header .links a:hover{transition:all .2s linear;-webkit-transition:all .2s linear;-moz-transition:all .2s linear;box-shadow:0 0 8px rgba(30,107,82,.4);-webkit-box-shadow:0 0 8px rgba(30,107,82,.4);-moz-box-shadow:0 0 8px rgba(30,107,82,.4)}
+a{text-decoration:none;color:#000}
+a:link{color:#225;text-decoration:none;border-bottom:1px solid #98b79e}
+a:active,a:visited{text-decoration:none;color:#224}
+a:hover{text-decoration:none;border-bottom:1px dotted #98b79e}
+a.noborder:link{border-bottom:0}
+a.noborder:active,a.noborder:hover,a.noborder:visited{border-bottom:0}
+.gallery{vertical-align:middle}
+.gallery a:active,.gallery a:hover,.gallery a:link,.gallery a:visited{margin:10px;border-bottom:0}
+input{font-size:12px}
+label{font:11px Arial,Verdana,Tahoma,sans-serif}
+.search_credit{font-size:80%;font-style:italic;color:#AAA}
+h1,h2,h3,h4,h5,h6{font-family:Titling,Helvetica,Verdana,sans-serif}
+h1 a,h1 a:active,h1 a:link,h1 a:visited,h2 a,h2 a:active,h2 a:link,h2 a:visited,h3 a,h3 a:active,h3 a:link,h3 a:visited,h4 a,h4 a:active,h4 a:link,h4 a:visited,h5 a,h5 a:active,h5 a:link,h5 a:visited,h6 a,h6 a:active,h6 a:link,h6 a:visited{color:#cc6b32;border-bottom:1px dotted #cc6b32}
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover{color:#ffab48;border-bottom-color:#ffab48}
+#multipost .post{padding-bottom:17px;border-bottom:1px dotted #999}
+li{line-height:130%}
+.small-photo .photo{margin:10px}
+.photo{margin:20px auto 10px;text-align:center}
+.photo img{border:1px solid #999;padding:10px}
+#container{clear:both}
+#container #left-container{float:left;padding:0 20px;width:300px}
+#container #left-container .special{padding:10px;margin-bottom:20px;color:#000;-moz-border-radius:10px;border-radius:10px;border:3px solid #a7c9ae}
+#container #left-content h1{margin:.1em 0;text-align:center;font-size:450%;color:#cc6b32}
+#container #left-content h1 .name{display:block;color:#cc6b32;border:none}
+#container #left-content h1 .year{display:block;font-size:170%;color:#a7c9ae}
+#container #left-content h1 .date{display:block;color:#888a63;font-size:80%}
+#container #left-content h3{margin:0 0 7px 0;padding:0}
+#container #left-content>div{border-bottom:1px dotted #DDC;padding:12px 0;margin:0 25px}
+#container #left-content ul{padding:0;list-style-type:none}
+#container #left-content ul li{padding:2px 0}
+#container #left-content a,#container #left-content a:link{font-weight:700}
+#container #col-2{margin-left:330px;padding:0 40px 0 30px}
+#container #col-2 p{text-align:justify}
+#footer{clear:both;background:#cc6b32;color:#fffefa;padding:3px;font-size:75%;text-align:center;margin-top:24px}
+#footer a{color:inherit}
+table.courses td{vertical-align:top;padding:5px 0 2px}
+table.courses td.person{font:110% Titling,Helvetica,Verdana,sans-serif;padding:8px 10px 4px}
+table.courses td.person div.person{padding:0 0 8px}
+table.courses td.person div.person .institution{display:block;font:110% Georgia,Garamond,serif;font-variant:small-caps}
+table.courses td.title{font-size:110%;font-weight:700;padding:8px 10px 12px}
+table.courses tr.course td{border-top:1px dotted #a7c9ae}
+#form label{font:11px Arial,Verdana,Tahoma,sans-serif;font-weight:700;display:inline}
+#form>div{margin:15px 0}
+#form input,#form select,#form textarea{margin:3px}
+table.schedule-table td{border-top:1px dotted #888a63;border-bottom:1px dotted #888a63}
+table.schedule-table td.time{white-space:nowrap;vertical-align:middle;text-align:center;font-size:130%}
+table.schedule-table td{vertical-align:top;padding:4px 10px}
+table.schedule-table .name{font-weight:700}

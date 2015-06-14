@@ -1,0 +1,705 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Sinatra" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="summer school, linguistics, logic, information, north american" />
+  <meta name="author" content="Christopher Brown, chrisbrown@utexas.edu">
+  <meta name="description" content="NASSLLI 2012 is a week-long summer school to be held at the University of Texas at Austin on June 18-22, 2012." />
+  <title>NASSLLI 2012 - Summer School of Logic, Language, and Information</title>
+  <link href="/favicon.ico" rel="Shortcut Icon" type="image/vnd.microsoft.icon" >
+  <link href="/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="stylesheet" href="/master.css" type="text/css" />
+  <script type="text/javascript" src="/js/jquery.js"></script> 
+</head>
+<body>
+  <div id="header">
+    <hr />
+    <a href="http://nasslli2012.com/" class="aimg noborder"><img src="/images/cube.png" /></a>
+    <div class="links">
+        <a href="/nasslli-2014" class="noborder">NASSLLI 2014</a>
+        <a href="/program" class="noborder">Course Listing</a>
+        <a href="/schedule" class="noborder">Schedule</a>
+        <a href="/faq" class="noborder">F.A.Q.</a>
+        <a href="/location" class="noborder">Location</a>
+        <a href="/food" class="noborder">Food</a>
+<!-- 
+    <a href="http://uts.cc.utexas.edu/~tls/2012tls/" class="noborder">TLS&nbsp;<img src="/images/ext-orange.png" /></a>
+ -->
+    </div>
+  </div>
+  <div id="container">
+    
+    <div id="left-container"><div id="left-content">
+      <h1>
+        <a href="http://nasslli2012.com/"><span class="name">NASSLLI</span></a>
+        <a href="http://nasslli2012.com/"><span class="year">2012</span></a>
+        <a href="http://nasslli2012.com/"><span class="date">June 18 - 22</span></a></h1>
+
+      <div class="noborder">
+        <h2>Special Events</h2>
+        <ul>
+          <li><a href="/rain">Reasoning and Interaction at NASSLLI</a></li>
+          <li><a href="/turing">Turing Centenary Symposium</a></li>
+          <li><a href="http://uts.cc.utexas.edu/~tls/2012tls/">Texas Linguistics Society&nbsp;<img src="/images/ext-orange.png" /></a></li>
+          <li><a href="/evenings">Evening Events</a></li>
+        </ul>
+      </div>
+
+      <div class="noborder">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+            <li><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></li>
+            <li><a href="/photos">Photos!</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/bootcamp">Bootcamp Courses</a></li>
+            <li><a href="/accommodations">Accommodations</a></li>
+            <li><a href="/transportation">Transportation</a></li>
+            <li><a href="/food">Food</a></li>
+            <li><a href="/location">Location</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+            <li><a href="/about">About NASSLLI 2012</a></li>
+            <li><a href="/poster-pdf">Poster</a></li>
+        </ul>
+      </div>
+
+      <div class="special">
+        <h3>Sign up here for our Mailing List:</h3>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="http://nasslli2012.us2.list-manage.com/subscribe/post?u=cf2f42d10a3c03e67bfeee11a&amp;id=2ff7e7259e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div>
+              <label for="mce-EMAIL" style="font-weight: bold">Email Address</label>
+            </div>
+            <div style="margin: 5px 0">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+
+      <div>
+        <h3>Questions? Email us:</h3>
+        <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a>
+      </div>
+
+      <div>
+        <a href="https://twitter.com/nasslli" class="twitter-follow-button" data-show-count="true" data-lang="en">
+          Follow @nasslli</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+      </div>
+
+      <div>
+        <h3>Search the site:</h3>
+        <div><input id="search_text" type="text" /></div>
+        <div style="margin: 4px 0;">
+          <input id="search_button" type="button" value="Search" />
+          <span class="search_credit">&nbsp; Powered by Google</span>
+        </div>
+      </div>
+      
+      <div class="noborder center">
+        <a href="http://www.utexas.edu/cola/depts/linguistics/" class="noborder"><img src="/images/longhorn.gif" /></a>
+      </div>
+    </div></div><!-- end col-1 -->
+  
+    <div id="col-2">
+      <div id="multipost">
+  <div class="post">
+    <div>
+  <h2><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></h2>
+  <p>The <i>sixth</i> North American Summer School of Logic, Language, and Information, <a href="http://nasslli2014.com/"><b>NASSLLI 2014</b></a>, will be hosted at the <a href="http://umd.edu/">University of Maryland, College Park</a>.</p>
+
+
+<h3>No way!</h3>
+
+<p>Yes, way! And it's gonna be awesome!</p>
+
+
+<h2>Dates and more info</h2>
+
+<ul>
+  <li>Dates: June 23-27, 2014</li>
+  <li style="list-style: none">
+    <h4>Official site: <a href="http://nasslli2014.com/">nasslli2014.com</a></h4>
+  </li>
+</ul>
+
+
+<p>See you there!</p>
+
+<div class="photo-placeholder"></div>
+
+<div class="right">(That's not there, by the way, that's still here.)</div>
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/photos">Photos!</a></h2>
+  
+
+<h4><a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">Chris Brown's NASSLLI 2012 Flickr Photoset</a></h4>
+
+<div class="gallery">
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-01.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-02.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-03.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-04.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-05.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-06.jpg" />
+</a>
+<a href="http://www.flickr.com/photos/audiere/sets/72157630312270106/">
+  <img src="/images/150/cb-07.jpg" />
+</a>
+</div>
+
+<p>Actually, Emilie took a lot of these; most of the Turing Centenary Symposium shots, and many of the Friday-at-Medici shots, are hers. (She doesn't have a Flickr yet, but we're working on that.)</p>
+
+<p>And here are some more from <a href="http://ecormany.com">Ed Cormany</a>, Cornell University</p>
+<ul>
+  <li><a href="http://www.flickr.com/search/?w=72134509@N00&q=nasslli">http://www.flickr.com/search/?w=72134509@N00&q=nasslli</a></li>
+</ul>
+
+<p>And the ones <a href="http://www.armadilloresearch.org">Andy Rogers (Armadillo Research Institute)</a> took</p>
+<ul>
+  <li><a href="http://andyrogers.smugmug.com/Candidsmostly/NASSLI-RAIN-TLS-Turing">http://andyrogers.smugmug.com/Candidsmostly/NASSLI-RAIN-TLS-Turing</a></li>
+</ul>
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/turing-news">Message from the Director</a></h2>
+  
+<h3><i>June 19, 2012</i></h3>
+
+<img class="float-right" style="margin: 0 0 20px 20px" src="/images/150/david-beaver.jpg" />
+
+<h2>DIRECTORS' LATEST NEWSFLASH</h2>
+<p>The Turing Centenary Symposium is now open to the public!</p>
+
+<h3>Turing Centenary Symposium Speakers</h4>
+<ul>
+  <li>Computer Scientist <b>Kevin Knight</b></li>
+  <li>Linguist <b>Bob King</b></li>
+  <li>Writer <b>Bruce Sterling</b></li>
+</ul>
+
+<p>If you're registered at NASSLLI, TLS, or RAIN, you are already guaranteed admission; otherwise, you must register at this page:</p>
+
+<ul>
+  <li style="list-style: none"><h4><a href="http://utdirect.utexas.edu/txshop/list.WBX?component=0&application_name=LNLINGUA&cat_seq_chosen=02&subcategory_seq_chosen=&num_items_to_rtn=0&by_date=&by_title=&services=&products=">Register for the Turing Centenary Symposium here.</a></h4></li>
+</ul>
+
+<p>Or <a href="http://utdirect.utexas.edu/txshop/list.WBX?component=0&application_name=LNLINGUA">here</a>, if that link doesn't get you directly there. Simply select "Turing Centenary Symposium" from the list.</p>
+
+<p>Hurry, there are less than 100 tickets left!</p>
+
+<h3>Gartenfest, Tuesday night</h3>
+<p>In other news, all NASSLLI participants are invited to our Gartenfest party tonight at <a href="https://maps.google.com/maps?q=1607+San+Jacinto,+Austin,+TX">Scholz Garten</a>, from 6:45 to 10:00 pm.</p>
+<ul>
+  <li style="list-style: none">Scholz Garten<br/>
+    1607 San Jacinto, Austin, TX</br>
+    <a href="https://maps.google.com/maps?q=1607+San+Jacinto,+Austin,+TX">Google Map</a> (the location is also on the map on the back of your programs)
+  </li>
+</ul>
+
+<h3>Evening lecture, Thursday night</h3>
+<p>Both NASSLLI participants and the general public are invited to attend an evening lecture that will serve as a great warm-up for the Turing Centenary Symposium on this Thursday night:</p>
+
+<img class="float-left" style="margin: 0 20px 20px 0;" src="/images/100/michael-tye.jpg" />
+<h4>Michael Tye - The Turing Test and Its Implications</h4>
+<p><em>(Department of Philosophy, University of Texas at Austin)</em></p>
+<p>Thursday, June 21st, at 7:30 pm, <a href="http://goo.gl/maps/pyYV">UTC 2.102</a></p>
+<br /><br />
+
+<p style="color: black; font-weight: bold"><a href="https://webspace.utexas.edu/dib97/">David Beaver</a></p>
+Director, NASSLLI 2012
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/message-june-2012-c">Message from the Director</a></h2>
+  
+<h3><i>June 18, 2012</i></h3>
+
+<img class="float-right" style="margin: 0 0 20px 20px" src="/images/150/david-beaver.jpg" />
+
+<h2>DIRECTORS' NEWSFLASH</h2>
+
+<p>Dear NASSLLI people, welcome to Austin!!!</p>
+
+I'm looking forward to seeing all 214 of you at our two opening evening events tonight:
+<ul>
+  <li>Bonnie Webber's talk at 7:30pm will be in the UTC the same building that the classes are in, but on the ground floor, 2.102A.
+  <li>Right after that we'll have reception. We've reserved Cafe Medici on Guadalupe & 21st from 8:30pm — everyone is invited for a well-deserved drink, and optionally to engage in building a lego Turing machine. You, know, geeky ice breaker sort of a thing.
+</ul>  
+
+<p style="color: black; font-weight: bold"><a href="https://webspace.utexas.edu/dib97/">David Beaver</a></p>
+Director, NASSLLI 2012
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/signin">Sign-in</a></h2>
+  
+<h4>Sign-in:</h4>
+<p><b>Monday</b> &middot; 8:00 - 9:00 am, 6:30 - 7:00 pm, and between classes, on UTC 4th floor</p>
+
+<h4>T-shirts:</h4>
+<ul>
+  <li>Are $5 each, and since we don't have as many as there are NASSLLI participants, please only take one. If you want another, please ask on Friday if we have leftovers/extras.</li>
+  <li>Are free for lecturers, presenters, and UT volunteers. Since we don't have terribly many volunteer shirts, though, lecturers should take the plain-ash-grey ones.</li>
+</ul>
+
+<p>NASSLLI Volunteers will be wearing the seafoam-ash-gray t-shirts.</p>
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/location">Location</a></h2>
+  
+<p>Where the classes are:</p>
+<ul>
+  <li><a href="http://goo.gl/maps/pyYV">UTC: University Teaching Center (21st Street and Speedway)</a>
+</ul>
+
+<p>Layout of Austin (from the program):</p>
+<img src="/images/map-austin.jpg" />
+
+<p>Layout of the UTC (also from the program):</p>
+<img src="/images/map-utc.jpg" />
+
+<p>Where the other things are:</p>
+<ul>
+  <li><a href="http://goo.gl/maps/dBfN">San Jacinto Residence Hall (Jester Cir)</a>
+  <li><a href="http://goo.gl/maps/IJm6">Caffe Medici (2222B Guadalupe Street)</a>
+  <li><a href="https://maps.google.com/maps?q=611+West+22nd+Street,+Austin,+TX">Star of Texas (611 West 22nd Street)</a>
+  <li><a href="https://maps.google.com/maps?q=506+West+22nd+Street,+Austin,+TX">Austin Folk House (506 West 22nd Street)</a>
+  <li><a href="https://maps.google.com/maps?q=1809+Pearl+Street,+Austin,+TX">Inn at Pearl Street (1809 Pearl Street)</a>
+  <li><a href="https://maps.google.com/maps?q=1114+West+22+1/2+Street,+Austin,+TX">Carrington House (1114 West 22 1/2 Street)</a>
+  <li><a href="https://maps.google.com/maps?q=1607+San+Jacinto,+Austin,+TX">Scholz Garten (1607 San Jacinto)</a>
+</ul>
+
+<p>Full program (hi-res printable maps on pages 10 and 12):</p>
+<ul>
+  <li><a href="/files/nasslli-program.pdf">NASSLLI Program (PDF)</a>
+</ul>
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/message-june-2012-b">Message from the Director</a></h2>
+  
+<h3><i>June 14, 2012</i></h3>
+
+<h2>DIRECTORS' NEWSFLASH</h2>
+
+<img class="float-right" style="margin: 0 0 20px 20px" src="/images/150/david-beaver.jpg" />
+<p>First, <a href="/files/nasslli-program.pdf">the full program with all NASSLLI class and conference times/locations and maps</a> is now available.</p>
+
+<p>Second, free tickets to the <a href="/turing">Turing Centenary Symposium</a> are <a href="http://utdirect.utexas.edu/txshop/list.WBX?component=0&application_name=LNLINGUA">available to UT students, faculty, and staff</a>, while stocks last!</p>
+
+<p style="color: black; font-weight: bold"><a href="https://webspace.utexas.edu/dib97/">David Beaver</a></p>
+Director, NASSLLI 2012
+
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/schedule">NASSLLI 2012 course schedule</a></h2>
+  <p>Each course takes place on of the five weekdays, Monday through Friday, June 18th through June 22nd, 2012. Thus, each course has five sessions, over the duration of the summer school.</p>
+
+  <p>Click here to see the extended listing of courses (same courses, more information): <a href="/program">NASSLLI 2012 course program</a></p>
+  <table class="schedule-table">
+    <tr>
+      <th></th>
+        <th>
+          <h4>Semantics</h4>
+          <div style="padding: 5px">UTC 4.104</div>
+        </th>
+        <th>
+          <h4>Logic</h4>
+          <div style="padding: 5px">UTC 4.110</div>
+        </th>
+        <th>
+          <h4>Computation</h4>
+          <div style="padding: 5px">UTC 4.124</div>
+        </th>
+        <th>
+          <h4>Philosophy &amp; Cognition</h4>
+          <div style="padding: 5px">UTC 4.132</div>
+        </th>
+    </tr>
+      <tr>
+        <td class="time">
+            <div>9:00</div> - <div>10:30</div>
+        </td>
+          <td>
+            <div>
+                  <a href="/courses/questions-in-discourse" class="noborder"><img src="/images/40/craige-roberts.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/questions-in-discourse" class="name">Roberts</a>
+            </div>
+            <a href="/courses/questions-in-discourse">Questions in Discourse</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/surface-reasoning" class="noborder"><img src="/images/40/thomas-icard.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/surface-reasoning" class="name">Icard</a>
+            </div>
+            <a href="/courses/surface-reasoning">Surface Reasoning</a>
+          </td>
+          <td>
+            <div>
+            </div>
+            <div>
+            </div>
+            <a href="/courses/"></a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/stochastic-lambda-calculus" class="noborder"><img src="/images/40/noah-goodman.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/stochastic-lambda-calculus" class="name">Goodman</a>
+            </div>
+            <a href="/courses/stochastic-lambda-calculus">Stochastic Lambda Calculus and its Applications in Cognitive Science</a>
+          </td>
+      </tr>
+      <tr>
+        <td class="time">
+            <div>10:40</div> - <div>12:10</div>
+        </td>
+          <td>
+            <div>
+                  <a href="/courses/intensionality" class="noborder"><img src="/images/40/ede-zimmermann.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/intensionality" class="name">Zimmermann</a>
+            </div>
+            <a href="/courses/intensionality">Intensionality</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/logical-dynamics" class="noborder"><img src="/images/40/alexandru-baltag.jpg" /></a>
+                  <a href="/courses/logical-dynamics" class="noborder"><img src="/images/40/sonja-smets.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/logical-dynamics" class="name">Baltag</a>,
+                <a href="/courses/logical-dynamics" class="name">Smets</a>
+            </div>
+            <a href="/courses/logical-dynamics">Logical Dynamics of Information and Interaction</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/statistical-machine-translation" class="noborder"><img src="/images/40/adam-lopez.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/statistical-machine-translation" class="name">Lopez</a>
+            </div>
+            <a href="/courses/statistical-machine-translation">Statistical Machine Translation</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/meaning-as-use" class="noborder"><img src="/images/40/steve-wechsler.jpg" /></a>
+                  <a href="/courses/meaning-as-use" class="noborder"><img src="/images/40/eric-mccready.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/meaning-as-use" class="name">Wechsler</a>,
+                <a href="/courses/meaning-as-use" class="name">McCready</a>
+            </div>
+            <a href="/courses/meaning-as-use">Meaning as Use: Indexicality, Expressives, and Self-Reference</a>
+          </td>
+      </tr>
+      <tr>
+        <td class="time">
+            <div>1:20</div> - <div>2:50</div>
+        </td>
+          <td>
+            <div>
+                  <a href="/courses/inquisitive-semantics" class="noborder"><img src="/images/40/jeroen-groenendijk.jpg" /></a>
+                  <a href="/courses/inquisitive-semantics" class="noborder"><img src="/images/40/floris-roelofsen.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/inquisitive-semantics" class="name">Groenendijk</a>,
+                <a href="/courses/inquisitive-semantics" class="name">Roelofsen</a>
+            </div>
+            <a href="/courses/inquisitive-semantics">Inquisitive Semantics</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/introduction-to-category-theory" class="noborder"><img src="/images/40/valeria-de-paiva.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/introduction-to-category-theory" class="name">de Paiva</a>
+            </div>
+            <a href="/courses/introduction-to-category-theory">Introduction to Category Theory</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/extracting-social-meaning" class="noborder"><img src="/images/40/christopher-potts.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/extracting-social-meaning" class="name">Potts</a>
+            </div>
+            <a href="/courses/extracting-social-meaning">Extracting Social Meaning and Sentiment</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/belief-revision" class="noborder"><img src="/images/40/nina-gierasimczuk.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/belief-revision" class="name">Gierasimczuk</a>
+            </div>
+            <a href="/courses/belief-revision">Belief Revision Meets Formal Learning Theory</a>
+          </td>
+      </tr>
+      <tr>
+        <td class="time">
+            <div>3:00</div> - <div>4:30</div>
+        </td>
+          <td>
+            <div>
+                  <a href="/courses/combinatory-categorial-grammar" class="noborder"><img src="/images/40/mark-steedman.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/combinatory-categorial-grammar" class="name">Steedman</a>
+            </div>
+            <a href="/courses/combinatory-categorial-grammar">Combinatory Categorial Grammars for Robust Natural Language Processing</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/social-choice-theory" class="noborder"><img src="/images/40/eric-pacuit.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/social-choice-theory" class="name">Pacuit</a>
+            </div>
+            <a href="/courses/social-choice-theory">Social Choice Theory for Logicians</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/alternative-paradigms" class="noborder"><img src="/images/40/shalom-lappin.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/alternative-paradigms" class="name">Lappin</a>
+            </div>
+            <a href="/courses/alternative-paradigms">Alternative Paradigms for Computational Semantics</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/possible-worlds" class="noborder"><img src="/images/40/catherine-legg.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/possible-worlds" class="name">Legg</a>
+            </div>
+            <a href="/courses/possible-worlds">Possible Worlds: A Course in Metaphysics (for Computer Scientists and Linguists)</a>
+          </td>
+      </tr>
+      <tr>
+        <td class="time">
+            <div>5:00</div> - <div>6:30</div>
+        </td>
+          <td>
+            <div>
+                  <a href="/courses/type-theory" class="noborder"><img src="/images/40/robin-cooper.jpg" /></a>
+                  <a href="/courses/type-theory" class="noborder"><img src="/images/40/jonathan-ginzburg.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/type-theory" class="name">Cooper</a>,
+                <a href="/courses/type-theory" class="name">Ginzburg</a>
+            </div>
+            <a href="/courses/type-theory">Type Theory with Records for Natural Language Semantics</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/intro-hybrid-logic" class="noborder"><img src="/images/40/patrick-blackburn.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/intro-hybrid-logic" class="name">Blackburn</a>
+            </div>
+            <a href="/courses/intro-hybrid-logic">An Introduction to Hybrid Logic</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/lambda-the-ultimate" class="noborder"><img src="/images/40/ken-shan.jpg" /></a>
+                  <a href="/courses/lambda-the-ultimate" class="noborder"><img src="/images/40/oleg-kiselyov.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/lambda-the-ultimate" class="name">Shan</a>,
+                <a href="/courses/lambda-the-ultimate" class="name">Kiselyov</a>
+            </div>
+            <a href="/courses/lambda-the-ultimate">Lambda: the ultimate syntax-semantics interface</a>
+          </td>
+          <td>
+            <div>
+                  <a href="/courses/vagueness-and-context" class="noborder"><img src="/images/40/hans-kamp.jpg" /></a>
+                  <a href="/courses/vagueness-and-context" class="noborder"><img src="/images/40/mark-sainsbury.jpg" /></a>
+            </div>
+            <div>
+                <a href="/courses/vagueness-and-context" class="name">Kamp</a>,
+                <a href="/courses/vagueness-and-context" class="name">Sainsbury</a>
+            </div>
+            <a href="/courses/vagueness-and-context">Vagueness and Context</a>
+          </td>
+      </tr>
+  </table>
+
+  <ul style="margin: 20px 10px">
+    <li>Lunch: 12:10 to 1:20</li>
+    <li>Break: 4:30 to 5:00</li>
+  </ul>
+</div>
+
+  </div>
+  <div class="post">
+    <div>
+  <h2><a href="/registration">Registration</a></h2>
+  
+<p>Online registration is now closed.</p>
+<p>On-site registration is still possible at the NASSLLI Welcome Table in the University Teaching Center (4th floor).  Email <a href="mailto:support@nasslli2012.com">support@nasslli2012.com</a> to request information concerning on-site registration times.</p>
+
+<!-- 
+<a href="http://utdirect.utexas.edu/txshop/list.WBX?component=0&application_name=LNLINGUA"><strong>NASSLLI 2012 registration is now open!</strong></a>
+
+<p><strong>Important:</strong> please read the following notes on registration.
+  <ul>
+    <li>You must select a quantity of exactly 1 when adding a ticket to your cart. If you are registering more than one person, you must go through the checkout once for each ticket (so that we get each individual's information).</li>
+    <li>If you are a UT student/faculty, the checkout process will require you to login with your UT EID via a pop-up window, so <strong>be sure to allow pop-ups!</strong></li>
+  </ul>
+</p>
+
+<div class="center">
+  <h4><a href="http://utdirect.utexas.edu/txshop/list.WBX?component=0&application_name=LNLINGUA">Click here  to register.</a></h4>
+</div>
+
+<h3>UT Students</h3>
+
+<p>A UT EID is required for UT students and faculty who register at the reduced rate or as volunteers.</p>
+
+<h3>Non-UT Students</h3>
+
+<p>A UT EID is not required to register at the academic or professional rate. Non-UT registrants should use the "Quick Checkout" option, which is on the left, opposite the "Checkout with EID" link, and kind of grayed-out.</p>
+ -->
+
+<!-- 
+<h3>Scholarship Applicants, Second Round</h3>
+
+<p>The application deadline for the second round scholarships has passed.</p>
+
+<p>Second round scholarships will be awarded soon.  Applicants should save receipts for reimbursement.</p>
+ -->
+
+<!-- 
+<div class="center">
+  <h4>Click <a href="/scholarships">here</a> to apply for a scholarship</h4>
+</div>
+
+<p>All second round scholarship applicants should register for the school.  If granted a scholarship, your fees will be refunded and you will be eligible for an additional payment of up to $300 against certified travel and accommodation expenses.  You should apply for the scholarship by following instructions on the <a href="/scholarships"><strong>scholarship application page</strong></a>.  If you previously applied for a scholarship in our first round (before February 28), but were either not granted one, or received only a fee reduction, your name will automatically be entered into the competition for second round scholarships.</p>
+ -->
+</div>
+
+  </div>
+</div>
+
+
+    </div>
+
+  </div>
+  <div id="footer">
+    &copy; <a href="http://en.wikipedia.org/wiki/2011">2011</a>-<a href="http://en.wikipedia.org/wiki/2012">2012</a>
+      <a href="mailto:dib@mail.utexas.edu">David Beaver</a>,
+      <a href="https://webspace.utexas.edu/dib97/">University of Texas at Austin</a>
+  </div>
+  <script type="text/javascript">
+    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24751883-1']); _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>  
+  <script type="text/javascript">
+    function google() {
+      window.location = 'http://www.google.com/#&q=site:nasslli2012.com+' + $('#search_text').val();
+    }
+    function shuffleArray(arr) {
+      // this is destructive! but it only returns a SHALLOW copy
+      // http://sedition.com/perl/javascript-fy.html
+      var i = arr.length;
+      if (i == 0) {
+        return [];
+      }
+      while (--i) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tempi = arr[i];
+        var tempj = arr[j]; // necessary to split?
+        arr[i] = tempj;
+        arr[j] = tempi;
+      }
+      return arr;
+    };
+
+    $(function() {
+      $('#search_button').click(google);
+      $('#search_text').keyup(function(ev) {
+        if (ev.keyCode == '13') {
+          ev.preventDefault(); 
+          google();
+        }
+      });
+      
+      var image_indices = [];
+      for (var i = 1; i < 12; i++) {
+        image_indices.push(i);
+      }
+      shuffleArray(image_indices);
+      $('.photo-placeholder').each(function(i, elem) {
+        $elem = $(elem);
+        var image_index = image_indices[i].toString();
+        if (image_index.length == 1)
+          image_index = '0' + image_index;
+        var size = $elem.hasClass('small-photo') ? 250 : 640;
+        $elem.html('<div class="photo"><img src="/images/' + size + '/ut-campus-' + image_index + '.jpg" /></div>');
+      });
+    });
+  </script>  
+</body>
+</html>

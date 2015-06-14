@@ -1,0 +1,373 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Sinatra" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="summer school, linguistics, logic, information, north american" />
+  <meta name="author" content="Christopher Brown, chrisbrown@utexas.edu">
+  <meta name="description" content="NASSLLI 2012 is a week-long summer school to be held at the University of Texas at Austin on June 18-22, 2012." />
+  <title>NASSLLI 2012 - Summer School of Logic, Language, and Information</title>
+  <link href="/favicon.ico" rel="Shortcut Icon" type="image/vnd.microsoft.icon" >
+  <link href="/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="stylesheet" href="/master.css" type="text/css" />
+  <script type="text/javascript" src="/js/jquery.js"></script> 
+</head>
+<body>
+  <div id="header">
+    <hr />
+    <a href="http://nasslli2012.com/" class="aimg noborder"><img src="/images/cube.png" /></a>
+    <div class="links">
+        <a href="/nasslli-2014" class="noborder">NASSLLI 2014</a>
+        <a href="/program" class="noborder">Course Listing</a>
+        <a href="/schedule" class="noborder">Schedule</a>
+        <a href="/faq" class="noborder">F.A.Q.</a>
+        <a href="/location" class="noborder">Location</a>
+        <a href="/food" class="noborder">Food</a>
+<!-- 
+    <a href="http://uts.cc.utexas.edu/~tls/2012tls/" class="noborder">TLS&nbsp;<img src="/images/ext-orange.png" /></a>
+ -->
+    </div>
+  </div>
+  <div id="container">
+    
+    <div id="left-container"><div id="left-content">
+      <h1>
+        <a href="http://nasslli2012.com/"><span class="name">NASSLLI</span></a>
+        <a href="http://nasslli2012.com/"><span class="year">2012</span></a>
+        <a href="http://nasslli2012.com/"><span class="date">June 18 - 22</span></a></h1>
+
+      <div class="noborder">
+        <h2>Special Events</h2>
+        <ul>
+          <li><a href="/rain">Reasoning and Interaction at NASSLLI</a></li>
+          <li><a href="/turing">Turing Centenary Symposium</a></li>
+          <li><a href="http://uts.cc.utexas.edu/~tls/2012tls/">Texas Linguistics Society&nbsp;<img src="/images/ext-orange.png" /></a></li>
+          <li><a href="/evenings">Evening Events</a></li>
+        </ul>
+      </div>
+
+      <div class="noborder">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+            <li><a href="/nasslli-2014">NASSLLI 2014 Announced!</a></li>
+            <li><a href="/photos">Photos!</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/bootcamp">Bootcamp Courses</a></li>
+            <li><a href="/accommodations">Accommodations</a></li>
+            <li><a href="/transportation">Transportation</a></li>
+            <li><a href="/food">Food</a></li>
+            <li><a href="/location">Location</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+            <li><a href="/about">About NASSLLI 2012</a></li>
+            <li><a href="/poster-pdf">Poster</a></li>
+        </ul>
+      </div>
+
+      <div class="special">
+        <h3>Sign up here for our Mailing List:</h3>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="http://nasslli2012.us2.list-manage.com/subscribe/post?u=cf2f42d10a3c03e67bfeee11a&amp;id=2ff7e7259e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div>
+              <label for="mce-EMAIL" style="font-weight: bold">Email Address</label>
+            </div>
+            <div style="margin: 5px 0">
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+
+      <div>
+        <h3>Questions? Email us:</h3>
+        <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a>
+      </div>
+
+      <div>
+        <a href="https://twitter.com/nasslli" class="twitter-follow-button" data-show-count="true" data-lang="en">
+          Follow @nasslli</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+      </div>
+
+      <div>
+        <h3>Search the site:</h3>
+        <div><input id="search_text" type="text" /></div>
+        <div style="margin: 4px 0;">
+          <input id="search_button" type="button" value="Search" />
+          <span class="search_credit">&nbsp; Powered by Google</span>
+        </div>
+      </div>
+      
+      <div class="noborder center">
+        <a href="http://www.utexas.edu/cola/depts/linguistics/" class="noborder"><img src="/images/longhorn.gif" /></a>
+      </div>
+    </div></div><!-- end col-1 -->
+  
+    <div id="col-2">
+      <div>
+  <h2><a href="/rain">Reasoning and Interaction at NASSLLI (RAIN)</a></h2>
+  
+<!-- 
+<h4>Time and Location</h4>
+
+<ul>
+  <li><b>Time:</b> June 23-24, 2012 (the weekend following NASSLLI)
+  <li><b>Location:</b> RAIN will be held at the University of Texas in Austin
+</ul>
+ -->
+
+<h3>Overview</h3>
+
+<!-- <p>Reasoning and Interaction at NASSLLI (RAIN)  is a workshop to be held immediately after the upcoming North American Summer School of Logic, Language, and Information (NASSLLI).</p> -->
+
+<p>Reasoning and Interaction at NASSLLI (RAIN) is a workshop concluding the summer school, to be held Saturday and Sunday, June 23-24.   Featuring talks by NASSLLI instructors, participants and other visiting scholars whose work is related to  reasoning and/or interactions among individuals and groups, RAIN is a forum for the presentation of formally-minded work of wide interest to an interdisciplinary audience.</p>
+
+<!-- 
+<h4>Topics</h4>
+
+<p>We invite submission on topics such as:</p>
+<ul>
+  <li>models of human reasoning
+  <li>philosophy of modal logic
+  <li>logic motivated by cognitive science
+  <li>rationality and bounded rationality
+  <li>epistemic logic and interactive epistemology
+  <li>foundational aspects of game theory
+  <li>modal logic and game theory
+  <li>spatial and temporal reasoning
+</ul>
+
+<p>Papers on related subjects will also be considered.</p>
+ -->
+
+<!-- <h4>Paper Submission</h4>
+<p>We invite papers for presentation at RAIN.   
+We are most interested in substantial papers on the topics mentioned above,
+including presentations of work which has already been published.
+RAIN will not publish a volume of papers, and so we shall also consider 
+work which is substantial but "in progress."
+The submissions should be at most 5 pages, with an optional technical
+appendix of up to 10 pages, together with a plain-text abstract of 100-200
+words.
+Papers should be submitted electronically to <a href="https://www.easychair.org/conferences/?conf=rain2012">https://www.easychair.org/conferences/?conf=rain2012</a>.
+</p>
+ -->
+
+<h3>Saturday, June 23:</h3>
+
+<table class="schedule-table">
+  <tr>
+    <td class="time">9:30 - 10:15 </td>
+    <td class="title">Presupposition as Abduction? Inferential Effects of Presupposition Accommodation<br>Hans Kamp </td>
+  </tr>
+  <tr>
+    <td class="time">10:15 - 10:30 </td>
+    <td class="title">Break </td>
+  </tr>
+  <tr>
+    <td class="time">10:30 - 11:15 </td>
+    <td class="title"><a href="/files/rain/willer-handout.pdf">Deontic Paradoxes from a Dynamic Perspective</a><br>Malte Willer </td>
+  </tr>
+  <tr>
+    <td class="time">11:15 - 12:00 </td>
+    <td class="title">Patrick Blackburn </td>
+  </tr>
+  <tr>
+    <td class="time">12:15 - 1:15 </td>
+    <td class="title">Lunch </td>
+  </tr>
+  <tr>
+    <td class="time">1:15 - 2:00 </td>
+    <td class="title">Noah Goodman </td>
+  </tr>
+  <tr>
+    <td class="time">2:15 - 3:00 </td>
+    <td class="title">Communicating with epistemic modals in stochastic lambda-calculus<br>Daniel Lassiter and Noah Goodman </td>
+  </tr>
+  <tr>
+    <td class="time">3:00 - 3:15
+    </td>
+    <td class="title">Break
+    </td>
+  </tr>
+  <tr>
+    <td class="time">3:30 - 4:15
+    </td>
+    <td class="title">Dynamic Doxastic Attitudes as Strategies for Belief Change<br>Alexandru Baltag, Ben Rodenhäuser and Sonja Smets
+    </td>
+  </tr>
+</table>
+
+
+
+<h3>Sunday, June 24:</h3>
+<table cellspacing="5" cellpadding="10" class="schedule-table">
+  <tr>
+    <td class="time">9:30 - 10:15 </td>
+    <td class="title">
+      <a href="/files/rain/szymanik-slides.pdf">A note on the complexity of backward induction games</a><br>
+      Jakub Szymanik </td>
+  </tr>
+  <tr>
+    <td class="time">10:15 - 10:30 </td>
+    <td class="title">Break </td>
+  </tr>
+  <tr>
+    <td class="time">10:30 - 11:15 </td>
+    <td class="title">Strategic Reasoning in Games: The Dynamic Epistemic Logic Perspective<br>Eric Pacuit </td>
+  </tr>
+  <tr>
+    <td class="time">11:15 - 12:00 </td>
+    <td class="title">A Uniform Logic of Information Dynamics<br>Wesley Holliday, Tomohiro Hoshi and Thomas Icard </td>
+  </tr>
+  <tr>
+    <td class="time">12:15 - 1:15 </td>
+    <td class="title">Lunch </td>
+  </tr>
+  <tr>
+    <td class="time">1:15 - 2:00 </td>
+    <td class="title">Valeria de Paiva </td>
+  </tr>
+  <tr>
+    <td class="time">2:15 - 3:00 </td>
+    <td class="title">Nina Gierasimczuk </td>
+  </tr>
+  <tr>
+    <td class="time">3:00 - 3:15 </td>
+    <td class="title">Break </td>
+  </tr>
+  <tr>
+    <td class="time">3:30 - 4:15 </td>
+    <td class="title">Constraining Modal Verb Readings:<br>Towards a Default Theory with Empirically Determined Probabilities<br>Lori Moon </td>
+  </tr>
+  <tr>
+    <td class="time">4:15 - 5:00 </td>
+    <td class="title">Larry Moss </td>
+  </tr>
+</table>
+
+
+<!-- 
+<h4>Invited Speakers</h4>
+
+<ul>
+  <li><b>Patrick Blackburn</b> (Roskilde University)
+  <li><b>Nina Gierasimczuk</b> (University of Amsterdam)
+  <li><b>Noah Goodman</b> (Stanford University)
+  <li><b>Lawrence Moss</b> (Indiana University)
+  <li><b>Valeria de Paiva</b> (Rearden Commerce, Inc.)
+  <li><b>Vincenzo Crupi</b> (<a href="http://www.philosophie.uni-muenchen.de/lehreinheiten/logik_sprachphil/personen/vincenzo_crupi/index.html">Munich Center for Mathematical Philosophy</a>)
+</ul>
+ -->
+ 
+<!-- 
+<h4>Important Dates</h4>  
+
+<p><b>Submission deadline:</b> <del>March 31, 2012</del> May 1, 2012</p>
+<p><b>Acceptance notification:</b> May ?, 2012</p>
+<p><b>Conference:</b> June 23-24, 2012</p>
+
+ -->
+ 
+<!-- 
+<h4>Co-occuring workshops</h4>
+
+<p>The TLS (Texas Linguistics Society) conference will coincide with RAIN, but they are two different events. TLS will be open to submissions from all areas, but the keynotes and invited talks will be split between semantics (potentially specifically the semantics of questions) and meaning in signed languages. In terms of overgeneralized differences, RAIN is oriented more toward logic/philosophy, and TLS is oriented more toward linguistics.</p>
+ -->
+ 
+<h4>Registration</h4>
+
+<p>RAIN is open to all NASSLLI participants.  There is no registration fee or independent registration process.</p>
+
+<h4>Organizing Committee</h4>
+
+<p>David Beaver, Patrick Blackburn, Larry Moss</p>
+
+
+<!-- 
+<h4>Inquiries</h4>
+
+<p>E-mail inquiries should be directed to <a href="mailto:nasslli@nasslli2012.com">nasslli@nasslli2012.com</a></p>
+ -->
+
+<!-- <p><a href="/files/rain_cfp.pdf">Download a prettier and printable Call for Papers here (PDF)</a></p> -->
+
+
+
+</div>
+
+    </div>
+
+  </div>
+  <div id="footer">
+    &copy; <a href="http://en.wikipedia.org/wiki/2011">2011</a>-<a href="http://en.wikipedia.org/wiki/2012">2012</a>
+      <a href="mailto:dib@mail.utexas.edu">David Beaver</a>,
+      <a href="https://webspace.utexas.edu/dib97/">University of Texas at Austin</a>
+  </div>
+  <script type="text/javascript">
+    var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24751883-1']); _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>  
+  <script type="text/javascript">
+    function google() {
+      window.location = 'http://www.google.com/#&q=site:nasslli2012.com+' + $('#search_text').val();
+    }
+    function shuffleArray(arr) {
+      // this is destructive! but it only returns a SHALLOW copy
+      // http://sedition.com/perl/javascript-fy.html
+      var i = arr.length;
+      if (i == 0) {
+        return [];
+      }
+      while (--i) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tempi = arr[i];
+        var tempj = arr[j]; // necessary to split?
+        arr[i] = tempj;
+        arr[j] = tempi;
+      }
+      return arr;
+    };
+
+    $(function() {
+      $('#search_button').click(google);
+      $('#search_text').keyup(function(ev) {
+        if (ev.keyCode == '13') {
+          ev.preventDefault(); 
+          google();
+        }
+      });
+      
+      var image_indices = [];
+      for (var i = 1; i < 12; i++) {
+        image_indices.push(i);
+      }
+      shuffleArray(image_indices);
+      $('.photo-placeholder').each(function(i, elem) {
+        $elem = $(elem);
+        var image_index = image_indices[i].toString();
+        if (image_index.length == 1)
+          image_index = '0' + image_index;
+        var size = $elem.hasClass('small-photo') ? 250 : 640;
+        $elem.html('<div class="photo"><img src="/images/' + size + '/ut-campus-' + image_index + '.jpg" /></div>');
+      });
+    });
+  </script>  
+</body>
+</html>

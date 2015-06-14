@@ -1,0 +1,335 @@
+// BEGIN: normalize.css
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}audio,canvas,video{display:inline;zoom:1;}html{font-size:100%;overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}body,button,input,select,textarea{font-family:sans-serif;}a{color:#00e;}a:visited{color:#551a8b;}a:focus{outline:thin dotted;}a:hover,a:active{outline:0;}abbr[title]{border-bottom:1px dotted;}b,strong{font-weight:700;}blockquote{margin:1em 40px;}dfn{font-style:italic;}mark{background:#ff0;color:#000;}pre,code,kbd,samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em;}pre{white-space:pre-wrap;word-wrap:break-word;}q{quotes:none;}q:before,q:after{content:none;}small{font-size:75%;}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sup{top:-.5em;}sub{bottom:-.25em;}ul,ol{margin:1em 0;padding:0 0 0 40px;}dd{margin:0 0 0 40px;}nav ul,nav ol{list-style:none;list-style-image:none;}img{border:0;-ms-interpolation-mode:bicubic;}svg:not(:root){overflow:hidden;}fieldset{margin:0 2px;padding:.35em .625em .75em;}legend{border:0;margin-left:-7px;}button,input,select,textarea{font-size:100%;vertical-align:middle;margin:0;}button,input{line-height:normal;overflow:visible;}table button,table input{overflow:auto;}button,html input[type=button],input[type=reset],input[type=submit]{cursor:pointer;-webkit-appearance:button;}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0;}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}input[type=search]::-webkit-search-decoration{-webkit-appearance:none;}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}textarea{overflow:auto;vertical-align:top;}table{border-collapse:collapse;border-spacing:0;}audio:not([controls]),[hidden]{display:none;}body,figure,form{margin:0;}
+// END: normalize.css
+
+/* GENERAL (a generic framework) */
+.clear { clear: both; }
+.hidden { display: none; }
+img { border: 0; outline: none; }
+div#container { margin: 0 auto; }
+.float-left { float: left; }
+.float-right { float: right; }
+a:active { outline:none; }
+a:focus { -moz-outline-style:none; }
+label { display: block; }
+.center { text-align: center; }
+.right { text-align: right; }
+.left { text-align: left; }
+.top { vertical-align: top; }
+.middle { vertical-align: middle; }
+.pad-right { padding-right: 10px; }
+ul, ol { margin: 2px 0; padding-left: 30px; }
+.bold { font-weight: bold; }
+.small { font-size: 80%; }
+.p { margin: 10px; }
+.nopad { padding: 0 !important; }
+.nomargin { margin: 0; }
+.nowrap { white-space: nowrap; }
+.noborder { border: 0 !important; }
+
+@font-face {
+  font-family: "Titling";
+  src: url('/fonts/Titling.otf'),
+       url('/fonts/Titling.woff') format('woff'),
+       url('/fonts/Titling.ttf') format('truetype');
+}
+
+// Kuler Son color scheme
+@darkorange: #CC6B32;
+@goldenrod: #FFAB48;
+@sand: #FFE7AD;
+@surf: #A7C9AE;
+@mauve: #888A63;
+.darkorange { color: @darkorange; }
+.goldenrod { color: @goldenrod; }
+.sand { color: @sand; }
+.surf { color: @surf; }
+.mauve { color: @mauve; }
+
+@lightsand: #fffefa;
+@darksurf: #98b79e;
+
+@titling: "Titling", Helvetica, Verdana, sans-serif;
+@serif: Georgia, Garamond, serif;
+@sans-serif: Arial, Verdana, Tahoma, sans-serif;
+
+// .box-shadow(0, 0, 8px, rgba(30,107,82,0.7))
+.box-shadow(@x, @y, @blur, @col) {
+  box-shadow:         @x @y @blur @col;
+  -webkit-box-shadow: @x @y @blur @col;
+  -moz-box-shadow:    @x @y @blur @col;
+}
+.transition(@duration: .2s, @which: all, @type: linear) {
+  transition:         @which @duration @type;
+  -webkit-transition: @which @duration @type;
+  -moz-transition:    @which @duration @type;
+}
+.border-radius(@radius) {
+  -moz-border-radius: @radius;
+  border-radius: @radius;
+}
+/* Oranges:
+  #5b2502; // dark brown
+  #843500; // light brown
+  #a34100; // dark orange
+  #c45f03; // light orange
+*/
+
+body {
+  font: 14px @serif;
+  background: @lightsand url('/images/noise.png') repeat scroll 0 0;
+}
+
+#header {
+  position: relative;
+  margin-top: 20px;
+  width: 100%;
+  height: 108px;
+  .aimg {
+    float: left;
+    display: block;
+    margin: 0 20px;
+    width: 300px;
+    text-align: center;
+  }
+  hr {
+    position: absolute;
+    left: 5px;
+    right: 5px;
+    top: 48px;
+    border: 1px solid @sand;
+    z-index: -1;
+  }
+  .links {
+    padding-top: 48px;
+    a {
+      padding: 3px 6px 1px;
+      margin: 0 2px;
+      background-color: @lightsand;
+      display: inline;
+      font: 14px @titling;
+      .border-radius(9px);
+      &:hover {
+        .transition();
+        .box-shadow(0, 0, 8px, rgba(30,107,82,0.4));
+      }
+    }
+  }
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  &:link {
+    color: #225;
+    text-decoration: none;
+    border-bottom: 1px solid @darksurf;
+  }
+  &:visited, &:active {
+    text-decoration: none;
+    color: #224;
+  }
+  &:hover {
+    text-decoration: none;
+    border-bottom: 1px dotted @darksurf;
+  }
+  &.noborder:link {
+    border-bottom: 0;
+  }
+  &.noborder:hover, &.noborder:visited, &.noborder:active {
+    border-bottom: 0;
+  }
+}
+.gallery {
+  vertical-align: middle;
+  a:link, a:visited, a:hover, a:active {
+    margin: 10px;
+    border-bottom: 0;
+  }
+}
+input {
+  font-size: 12px;
+}
+label {
+  font: 11px @sans-serif;
+}
+.search_credit {
+  font-size: 80%;
+  font-style: italic;
+  color: #AAA;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: @titling;
+  a, a:link, a:visited, a:active {
+    color: @darkorange;
+    border-bottom: 1px dotted @darkorange;
+    //line-height: 130%;
+  }
+  a:hover {
+    color: @goldenrod;
+    border-bottom-color: @goldenrod;
+  }
+}
+#multipost {
+  .post {
+    padding-bottom: 17px;
+    border-bottom: 1px dotted #999;
+  }
+}
+li {
+  line-height: 130%;
+}
+.small-photo {
+  .photo {
+    margin: 10px;
+  }
+}
+.photo {
+  margin: 20px auto 10px;
+  text-align: center;
+  img {
+    border: 1px solid #999;
+    padding: 10px;
+  }
+}
+#container {
+  clear: both;
+  #left-container {
+    float: left;
+    padding: 0 20px;
+    width: 300px;
+
+    .special {
+      padding: 10px;
+      margin-bottom: 20px;
+      color: black;
+      .border-radius(10px);
+      border: 3px solid @surf;
+    }
+  }
+  #left-content {
+    h1 {
+      margin: 0.1em 0;
+      text-align: center;
+      font-size: 450%;
+      color: @darkorange;
+      .name {
+        display: block;
+        color: @darkorange;
+        border: none;
+      }
+      .year {
+        display: block;
+        font-size: 170%;
+        color: @surf;
+      }
+      .date {
+        display: block;
+        color: @mauve;
+        font-size: 80%;
+      }
+    }
+
+    h3 {
+      margin: 0 0 7px 0;
+      padding: 0;
+    }
+    > div {
+      border-bottom: 1px dotted #DDC;
+      padding: 12px 0;
+      margin: 0 25px;
+    }
+    ul {
+      padding: 0;
+      list-style-type: none;
+      li {
+        padding: 2px 0;
+      }
+    }
+    a, a:link {
+      font-weight: bold;
+    }
+  }
+  #col-2 {
+    margin-left: 330px;
+    padding: 0 40px 0 30px;
+    p {
+      text-align: justify;
+    }
+  }
+}
+#footer {
+  clear: both;
+  background: @darkorange;
+  color: @lightsand;
+  padding: 3px;
+  font-size: 75%;
+  text-align: center;
+  margin-top: 24px;
+  a {
+    color: inherit;
+  }
+}
+
+table.courses {
+  td {
+    vertical-align: top;
+    padding: 5px 0 2px;
+  }
+  td.person {
+    font: 110% @titling;
+    padding: 8px 10px 4px;
+    div.person {
+      padding: 0 0 8px;
+      .institution {
+        display: block;
+        font: 110% @serif;
+        font-variant: small-caps;
+      }
+    }
+  }
+  td.title {
+    font-size: 110%;
+    font-weight: bold;
+    padding: 8px 10px 12px;
+  }
+  tr.course {
+    td {
+      border-top: 1px dotted @surf;
+    }
+  }
+}
+
+#form {
+  label {
+    font: 11px @sans-serif;
+    font-weight: bold;
+    display: inline;
+  }
+  & > div {
+    margin: 15px 0;
+  }
+  input, textarea, select {
+    margin: 3px;
+  }
+}
+
+table.schedule-table {
+  td {
+    border-top: 1px dotted @mauve;
+    border-bottom: 1px dotted @mauve;
+  }
+  td.time {
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 130%;
+  }
+  td {
+    vertical-align: top;
+    padding: 4px 10px;
+  }
+  .name {
+    font-weight: bold;
+  }
+}
